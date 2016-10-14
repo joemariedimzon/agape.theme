@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="agape.theme"
+        interface="agape.theme.interfaces.IProductSpecific" />
+</layers>
